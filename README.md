@@ -1,4 +1,4 @@
 # machine_learning_class
 
 ## Required Packages
-pip install jupyterlab
+pip install jupyterlab pandas matplotlib numpy seaborn openpyxl sqlite3
